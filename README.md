@@ -1,1 +1,1 @@
-https://tails2012timnew.github.io/tailsredirect
+https://tails1154.github.io/tailsredirect
